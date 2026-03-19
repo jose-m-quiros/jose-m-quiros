@@ -14,7 +14,7 @@
 ⚙️ Trabajo con .NET, SQL Server y Python  
 🔐 Interés fuerte en seguridad y automatización  
 
-
+---
 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
@@ -30,21 +30,21 @@
 🔹 Automatización → Scripts y reportes  
 🔹 DataSentinel → Detección de amenazas (en desarrollo)  
 
-
-## 💼 Experiencia
+---
+💼 Experiencia
 
 🚀 SPIKEDTECH — Fundador & Developer  
 📞 NETCOM — Soporte & CRM  
 🏛️ Sector público — Soporte TI  
 
-
+---
 📫 Contacto
 
 <a href="mailto:jqchaves1928@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
+---
 ⚡ Enfoque
 
 ✔️ Seguridad desde el diseño  
