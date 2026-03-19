@@ -7,7 +7,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-m-quiros&layout=compact&theme=tokyonight&hide_border=true" />
 
----
 
 ## 🧠 Sobre mí
 
@@ -15,7 +14,6 @@
 ⚙️ Trabajo con .NET, SQL Server y Python  
 🔐 Interés fuerte en seguridad y automatización  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +23,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Security-OWASP-red?style=for-the-badge"/> 
 
----
 
 ## 📂 Proyectos
 
@@ -33,7 +30,6 @@
 🔹 Automatización → Scripts y reportes  
 🔹 DataSentinel → Detección de amenazas (en desarrollo)  
 
----
 
 ## 💼 Experiencia
 
@@ -41,7 +37,6 @@
 📞 NETCOM — Soporte & CRM  
 🏛️ Sector público — Soporte TI  
 
----
 
 ## 📫 Contacto
 
@@ -49,7 +44,6 @@
   <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
 
 ## ⚡ Enfoque
 
@@ -57,7 +51,6 @@
 ✔️ Código limpio  
 ✔️ Soluciones reales  
 
----
 
 ⭐ Abierto a oportunidades en backend, seguridad y automatización
 
