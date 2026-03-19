@@ -1,21 +1,21 @@
 <div align="center">
 
 # 👋 Jose Manuel Quiros  
-### 🚀 Backend Developer | Seguridad | APIs
+🚀 Backend Developer | Seguridad | APIs
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jose-m-quiros&theme=tokyonight&hide_border=true" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-m-quiros&layout=compact&theme=tokyonight&hide_border=true" />
 
 
-## 🧠 Sobre mí
+🧠 Sobre mí
 
 💡 Backend developer enfocado en construir APIs seguras, escalables y limpias  
 ⚙️ Trabajo con .NET, SQL Server y Python  
 🔐 Interés fuerte en seguridad y automatización  
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Security-OWASP-red?style=for-the-badge"/> 
 
 
-## 📂 Proyectos
+📂 Proyectos
 
 🔹 Panel de Registros → Control y validación de datos  
 🔹 Automatización → Scripts y reportes  
@@ -38,14 +38,14 @@
 🏛️ Sector público — Soporte TI  
 
 
-## 📫 Contacto
+📫 Contacto
 
 <a href="mailto:jqchaves1928@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 
-## ⚡ Enfoque
+⚡ Enfoque
 
 ✔️ Seguridad desde el diseño  
 ✔️ Código limpio  
