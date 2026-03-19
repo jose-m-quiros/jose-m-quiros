@@ -1,4 +1,4 @@
-<p align="center">>
+<p align="center">
 👋 Jose Manuel Quiros
 🚀 Backend Developer | Seguridad | APIs
 <p> <img src="https://github-readme-streak-stats.herokuapp.com?user=jose-m-quiros&theme=tokyonight&hide_border=true" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-m-quiros&layout=compact&theme=tokyonight&hide_border=true" /> </p>
