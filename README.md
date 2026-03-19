@@ -17,8 +17,8 @@
 
 💼 Experiencia
 
-🚀 SPIKEDTECH — Fundador & Developer
-📞 NETCOM — Soporte & CRM
+🚀 SPIKEDTECH — Fundador & Developer <br />
+📞 NETCOM — Soporte & CRM <br />
 🏛️ Sector público — Soporte TI
 
 📫 Contacto
