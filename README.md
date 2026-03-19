@@ -3,6 +3,7 @@ Full Stack Developer | Seguridad Informática | Backend Specialist
 
 🧠 Sobre mí
 Desarrollador Full Stack enfocado en la construcción de APIs robustas, seguras y mantenibles, con experiencia en soluciones para pymes, clientes individuales y entornos institucionales.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jose-m-quiros)](https://git.io/streak-stats)
 
 Trabajo principalmente con C# y .NET, integrando SQL Server para la gestión de datos y Python para automatización de procesos.
 
