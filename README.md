@@ -1,15 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1220,100:1E293B&text=JOSE%20QUIROS&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Backend%20Developer%20%7C%20Arquitectura%20de%20Software%20y%20APIs&descAlignY=50&descSize=16" />
 
-  <a href="https://github.com/jose-m-quiros">
-    <img src="https://img.shields.io/badge/GitHub-jose--m--quiros-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jmquiros19/">
-    <img src="https://img.shields.io/badge/LinkedIn-jmquiros19-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:spikedtech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-spikedtech%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <div style="margin-top:-30px;">
+    <a href="https://github.com/jose-m-quiros">
+      <img src="https://img.shields.io/badge/GitHub-jose--m--quiros-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/jmquiros19/">
+      <img src="https://img.shields.io/badge/LinkedIn-jmquiros19-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:spikedtech@gmail.com">
+      <img src="https://img.shields.io/badge/Email-spikedtech%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
 </div>
 <br />
 
